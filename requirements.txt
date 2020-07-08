@@ -1,0 +1,3 @@
+Flask
+Redis
+tika==1.19
