@@ -119,7 +119,7 @@ def upload_file():
 
         project_root = constant.PROJECTROOT
         project_root = os.path.join(project_root, 'app')
-        # project_root = os.path.join(project_root, 'pythonBluecode')
+        # project_root = os.path.join(project_root, 'bill')
         project_root_result = os.path.join(project_root, 'result')
 
         usage_path = os.path.join(project_root_result, 'usage')
